@@ -1,3 +1,3 @@
-.node_modules
-.build
-.technical_task
+/node_modules/
+/build/
+/technical_task/
